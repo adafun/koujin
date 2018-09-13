@@ -1,0 +1,26 @@
+# Eclipse
+*.pydevproject
+.project
+.metadata
+/bin/**
+/tmp/**
+/tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.classpath
+.settings/**
+.loadpath
+/src/main/resources/rebel.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Build output
+target/
+build/
+out/
